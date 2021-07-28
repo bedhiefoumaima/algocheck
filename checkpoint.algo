@@ -1,0 +1,9 @@
+ALGORITHM algorithm_name
+VAR
+    i
+    x CHAR
+BEGIN
+WHILE (x!=#) DO
+    
+END_WHILE
+END
